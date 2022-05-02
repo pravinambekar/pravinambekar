@@ -9,7 +9,7 @@ Agile and creative software engineer, passionate about building modern web devel
 * 🌍  I'm based in India
 * ✉️  You can contact me at [pravin.ambekar@gmail.com](mailto:pravin.ambekar@gmail.com)
 * 🧠  I'm learning GraphQL
-* 🤝  I'm open to collaborating on Bot & Related services
+* 🤝  I'm open to collaborating on Azure Bot & Related services, Angular framework 
 * ⚡  Other than coding i am interested in Sport & Music
 
 ### Skills
